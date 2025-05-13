@@ -1,15 +1,16 @@
 # 🧠 O que está acontecendo aqui?
 
+É como uma ``<div>`` no HTML:
 ```bash
 <View> </View>
 ```
-É como uma <div> no HTML.
 
+É para mostrar textos:
 ```bash
 <Text> </Text>
 ```
-É para mostrar textos.
 
-```bash StyleSheet.create()
+Serve para criar estilos de forma organizada:
+```bash
+StyleSheet.create()
 ```
-serve para criar estilos de forma organizada.
